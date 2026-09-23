@@ -33,3 +33,9 @@ git remote -v
 
 Se comprobó que origin apuntaba al repositorio de mi cuenta dario20-13 y no
 al repositorio original.
+
+
+¿Cuál es la función del archivo .gitignore?
+
+el .gitignore nos sirve para ignorar los cambios echos en esos archivos pero deben estasagragadas
+dentro del .gitignore ya sea su extencion como .txt y su carpeta como doc/
